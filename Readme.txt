@@ -1,0 +1,1 @@
+En este projecto realizo pruebas de conexión entre el servlet y los jsp, simulando un formulario y visualizando los datos ya ingresados.
